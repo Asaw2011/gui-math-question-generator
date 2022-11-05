@@ -1,7 +1,7 @@
 
 # gui-math-question-generator
 
-This is a program that uses gui programming to generate random addition, subtraction, multiplication, division. It 
+This is a program that uses gui programming to generate random addition, subtraction, multiplication, division. It uses functions, gui programing, and buttons to make a very functionable random math question generator.
 
 
 ## Author
